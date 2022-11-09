@@ -18,3 +18,5 @@ This is a sample view for Obsidian Projects (https://github.com/marcusolsson/obs
    ```
 
 1. Restart Obsidian and enable the plugin from Community Plugins.
+
+Open Projects and add a new view. Your view should be listed in the dropdown with available views.

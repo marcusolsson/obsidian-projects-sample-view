@@ -1,6 +1,6 @@
 # Obsidian Projects Sample View
 
-This is a sample view for Obsidian Projects (https://github.com/marcusolsson/obsidian-projects).
+This is a sample view for [Obsidian Projects](https://github.com/marcusolsson/obsidian-projects).
 
 ## Get started
 
